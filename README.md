@@ -12,15 +12,26 @@ Hello there, I'm Devanshi! I'm a senior at UC San Diego, pursuing a Math-CS majo
 - [Connect with Me](#connect-with-me)
 
 ## About Me
-
+<!-- 
 ## Projects
 
-In my GitHub repositories, you'll find a collection of my projects that showcase my passion for software development and problem-solving. From algorithms and data structures to web applications and machine learning experiments, I enjoy working on diverse projects that challenge and inspire me. Please feel free to explore my projects and provide feedback or suggestions.
+In my GitHub repositories, you'll find a collection of my projects that showcase my passion for software development and problem-solving. From algorithms and data structures to web applications and machine learning experiments, I enjoy working on diverse projects that challenge and inspire me. Please feel free to explore my projects and provide feedback or suggestions. -->
 
 ## Skills
 <!-- #### Technologies -->
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-%230077b5.svg?style=for-the-badge&logo=python&logoColor=%23F7DF1E) ![HTML](https://img.shields.io/badge/html-%23e34f2c.svg?style=for-the-badge&logo=html&logoColor=%23F7DF1E) ![CSS](https://img.shields.io/badge/css-%23563d7c.svg?style=for-the-badge&logo=css&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=%2361DBFB) ![Django](https://img.shields.io/badge/django-%2523323330.svg?style=for-the-badge&logo=django&logoColor=%2523F7DF1E) ![Next.js](https://img.shields.io/badge/next.js-%23323330.svg?style=for-the-badge&logo=next.js&logoColor=%2523F7DF1E) ![AWS](https://img.shields.io/badge/aws-%23e34f2c.svg?style=for-the-badge&logo=aws&logoColor=%23F7DF1E) ![GitHub](https://img.shields.io/badge/github-%23323330.svg?style=for-the-badge&logo=github&logoColor=%2523F7DF1E) ![Git](https://img.shields.io/badge/git-%23f7df1e.svg?style=for-the-badge&logo=git&logoColor=%2523F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23323330.svg?style=for-the-badge&logo=netlify&logoColor=%2523F7DF1E) ![Heroku](https://img.shields.io/badge/heroku-%23323330.svg?style=for-the-badge&logo=heroku&logoColor=%2523F7DF1E)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Python](https://img.shields.io/badge/python-%230077b5.svg?style=for-the-badge&logo=python&logoColor=%23F7DF1E) 
+![HTML](https://img.shields.io/badge/html-%23e34f2c.svg?style=for-the-badge&logo=html&logoColor=%23F7DF1E) 
+![CSS](https://img.shields.io/badge/css-%23563d7c.svg?style=for-the-badge&logo=css&logoColor=%23F7DF1E) 
+![React](https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=%2361DBFB) 
+![Django](https://img.shields.io/badge/django-%2523323330.svg?style=for-the-badge&logo=django&logoColor=%2523F7DF1E) 
+![Next.js](https://img.shields.io/badge/next.js-%23323330.svg?style=for-the-badge&logo=next.js&logoColor=%2523F7DF1E) 
+![AWS](https://img.shields.io/badge/aws-%23e34f2c.svg?style=for-the-badge&logo=aws&logoColor=%23F7DF1E) 
+![GitHub](https://img.shields.io/badge/github-%23323330.svg?style=for-the-badge&logo=github&logoColor=%2523F7DF1E) 
+![Git](https://img.shields.io/badge/git-%23f7df1e.svg?style=for-the-badge&logo=git&logoColor=%2523F7DF1E) 
+<!-- ![Netlify](https://img.shields.io/badge/netlify-%23323330.svg?style=for-the-badge&logo=netlify&logoColor=%2523F7DF1E)  -->
+![Heroku](https://img.shields.io/badge/heroku-%23323330.svg?style=for-the-badge&logo=heroku&logoColor=%2523F7DF1E)
 
 <!-- Here are some of the skills and technologies I have experience with:
 
@@ -34,7 +45,9 @@ These are just a few examples, and I'm always eager to learn and explore new tec
 
 ## Looking for Opportunities
 
-I am actively seeking full-time software engineering positions starting in 2024. I am passionate about solving complex problems, building scalable software solutions, and collaborating with talented teams. If you know of any exciting opportunities or would like to discuss potential roles, I would love to hear from you. Please feel free to reach out to me via email or connect with me on LinkedIn (links provided in the "Connect with Me" section below). I'm open to exploring various industries and technologies, and I'm eager to contribute my skills and knowledge to a dynamic organization.
+I am actively seeking full-time software engineering positions starting in 2024. I am passionate about solving complex problems, building scalable software solutions, and collaborating with talented teams. If you know of any exciting opportunities or would like to discuss potential roles, I would love to hear from you. 
+
+<!-- Please feel free to reach out to me via email or connect with me on LinkedIn (links provided in the "Connect with Me" section below). I'm open to exploring various industries and technologies, and I'm eager to contribute my skills and knowledge to a dynamic organization. -->
 
 <!-- ## Connect with Me -->
 #### Let's get in touch
