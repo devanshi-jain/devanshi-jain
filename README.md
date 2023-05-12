@@ -4,13 +4,13 @@ I'm a senior at UC San Diego, pursuing a Math-CS major with a passion for softwa
 
 ## Table of Contents
 
-- [About Me](#about-me)
-- [Projects](#projects)
+<!-- - [About Me](#about-me) -->
+<!-- - [Projects](#projects) -->
 - [Skills](#skills)
 - [Looking for Opportunities](#looking-for-opportunities)
 - [Connect with Me](#connect-with-me)
 
-## About Me
+<!-- ## About Me -->
 <!-- 
 ## Projects
 
@@ -43,9 +43,7 @@ In my GitHub repositories, you'll find a collection of my projects that showcase
 These are just a few examples, and I'm always eager to learn and explore new technologies to expand my skill set. -->
 
 ## Looking for Opportunities
-
-I am actively seeking full-time software engineering positions starting in 2024. I am passionate about solving complex problems, building scalable software solutions, and collaborating with talented teams. If you know of any exciting opportunities or would like to discuss potential roles, I would love to hear from you. 
-
+Upcoming Spring 2024 graduate actively seeking __entry-level software engineering positions___. Passionate about problem-solving, building scalable solutions, and collaborating with talented teams. Let's connect and discuss potential roles for a meaningful career start.
 <!-- Please feel free to reach out to me via email or connect with me on LinkedIn (links provided in the "Connect with Me" section below). I'm open to exploring various industries and technologies, and I'm eager to contribute my skills and knowledge to a dynamic organization. -->
 
 <!-- ## Connect with Me -->
