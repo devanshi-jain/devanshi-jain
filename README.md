@@ -1,14 +1,14 @@
 # Hello there, I'm Devanshi! 
 I'm a senior at UC San Diego, pursuing a Math-CS major with a passion for software development and research. 
 - :star2: I'm currently working at <a href="https://sites.google.com/ucsd.edu/derconnect/home?authuser=0">Jacobs School of Engineering</a> as a Software Intern, where I'm involved in exciting projects that combine mathematics and computer science.
-
+<!-- 
 ## Table of Contents
 
-<!-- - [About Me](#about-me) -->
-<!-- - [Projects](#projects) -->
+- [About Me](#about-me)
+- [Projects](#projects)
 - [Skills](#skills)
 - [Looking for Opportunities](#looking-for-opportunities)
-- [Connect with Me](#connect-with-me)
+- [Connect with Me](#connect-with-me) -->
 
 <!-- ## About Me -->
 <!-- 
