@@ -1,5 +1,4 @@
 <h1 align="center"> Hey <img width="30px" src="https://github.com/devanshi-jain/devanshi-jain/blob/main/hi.gif">, I'm <a href="https://www.linkedin.com/in/djain18/">Devanshi</a></h1>
-
 <p align="center"> 
 	<a href="https://leetcode.com/djain18/">
 		<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="leetcode"/>
@@ -7,9 +6,9 @@
 	<a href="https://www.linkedin.com/in/djain18/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 	</a>
-<!-- 	<a href="https://getwaddle.com">
-		<img src="https://img.shields.io/badge/getwaddle-blue?style=for-the-badge" alt="getwaddle"/>
-	</a> -->
+	<a href="mailto:djain@ucsd.edu">
+		<img src="https://img.shields.io/badge/email-%23323330.svg?style=for-the-badge&logo=gmail&logoColor=%2523F7DF1E" alt="email"/>
+	</a>
 </p>
 
 I'm a junior at UC San Diego, pursuing a Math-CS major with a passion for software development and research. 
@@ -63,12 +62,12 @@ These are just a few examples, and I'm always eager to learn and explore new tec
 ## Looking for Opportunities
 Upcoming Spring 2024 graduate actively seeking __entry-level software engineering positions___. Passionate about problem-solving, building scalable solutions, and collaborating with talented teams. Let's connect and discuss potential roles for a meaningful career start.
 <!-- Please feel free to reach out to me via email or connect with me on LinkedIn (links provided in the "Connect with Me" section below). I'm open to exploring various industries and technologies, and I'm eager to contribute my skills and knowledge to a dynamic organization. -->
-
-<!-- ## Connect with Me -->
+<!-- 
+## Connect with Me
 #### Let's get in touch
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%23323330.svg?style=for-the-badge&logo=linkedin&logoColor=%2523F7DF1E)](https://www.linkedin.com/in/djain18/) 
-[![Email](https://img.shields.io/badge/email-%23323330.svg?style=for-the-badge&logo=gmail&logoColor=%2523F7DF1E)](mailto:djain@ucsd.edu)
+[![Email](https://img.shields.io/badge/email-%23323330.svg?style=for-the-badge&logo=gmail&logoColor=%2523F7DF1E)](mailto:djain@ucsd.edu) -->
 
 <!-- I would love to connect with you! Whether it's to discuss potential collaborations, share ideas, or simply have a conversation, feel free to reach out to me. You can connect with me through the following channels:
 
