@@ -47,8 +47,8 @@ In my GitHub repositories, you'll find a collection of my projects that showcase
 ![AWS](https://img.shields.io/badge/aws-%23e34f2c.svg?style=for-the-badge&logo=aws&logoColor=%23F7DF1E) 
 ![GitHub](https://img.shields.io/badge/github-%23323330.svg?style=for-the-badge&logo=github&logoColor=%2523F7DF1E) 
 ![Git](https://img.shields.io/badge/git-%23f7df1e.svg?style=for-the-badge&logo=git&logoColor=%2523F7DF1E) 
-<!-- ![Netlify](https://img.shields.io/badge/netlify-%23323330.svg?style=for-the-badge&logo=netlify&logoColor=%2523F7DF1E)  -->
 ![Heroku](https://img.shields.io/badge/heroku-%23323330.svg?style=for-the-badge&logo=heroku&logoColor=%2523F7DF1E)
+<!-- ![Netlify](https://img.shields.io/badge/netlify-%23323330.svg?style=for-the-badge&logo=netlify&logoColor=%2523F7DF1E)  -->
 
 <!-- Here are some of the skills and technologies I have experience with:
 
