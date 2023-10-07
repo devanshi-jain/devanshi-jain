@@ -1,4 +1,4 @@
-<h1 align="center"> Hey <img width="30px" src="https://github.com/devanshi-jain/devanshi-jain/blob/main/hi.gif">, I'm <a href="https://www.linkedin.com/in/djain18/">Devanshi</a></h1>
+<h1 align="center"> Hey <img width="30px" src="https://github.com/devanshi-jain/devanshi-jain/blob/main/hi.gif">, I'm Devanshi</a></h1>
 <p align="center"> 
     <a href="https://leetcode.com/djain18/">
         <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="leetcode"/>
