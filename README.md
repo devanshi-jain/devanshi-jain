@@ -1,8 +1,6 @@
 <h1 align="center"> Hey <img width="30px" src="https://github.com/devanshi-jain/devanshi-jain/blob/main/hi.gif">, I'm Devanshi</a></h1>
 <p align="center"> 
-    <a href="https://leetcode.com/djain18/">
-        <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="leetcode"/>
-    </a>
+
     <a href="https://www.linkedin.com/in/djain18/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
     </a>
@@ -10,7 +8,9 @@
         <img src="https://img.shields.io/badge/email-%23323330.svg?style=for-the-badge&logo=gmail&logoColor=%2523F7DF1E" alt="email"/>
     </a>
 </p>
-
+<!--     <a href="https://leetcode.com/djain18/">
+        <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="leetcode"/>
+    </a> -->
 <p align="center">I'm a junior at UC San Diego, pursuing a Math-CS major with a passion for software development and research. 
     <br>:star2: As a Software Intern at <a href="https://sites.google.com/ucsd.edu/derconnect/home?authuser=0">Jacobs School of Engineering</a>, I actively contribute to projects aimed at optimizing smart plug usage. This involves developing scheduler grader programs, generating heatmaps, and calculating efficiency metrics to maximize energy savings.</p>
 
