@@ -1,6 +1,5 @@
 <h1 align="center"> Hey <img width="30px" src="https://github.com/devanshi-jain/devanshi-jain/blob/main/hi.gif">, I'm Devanshi</a></h1>
 <p align="center"> 
-
     <a href="https://www.linkedin.com/in/djain18/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
     </a>
