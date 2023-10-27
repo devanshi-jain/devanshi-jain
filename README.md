@@ -25,4 +25,4 @@
     <img src="https://img.shields.io/badge/git-%23f7df1e.svg?style=for-the-badge&logo=git&logoColor=%2523F7DF1E" alt="Git"/> 
 </p>
 
-<p align="center">Upcoming Spring 2024 graduate actively seeking <em>entry-level software engineering positions</em>. Passionate about problem-solving, building scalable solutions, and collaborating with talented teams. Let's connect and discuss potential roles for a meaningful career start.</p>
+<p align="center"> I'm actively seeking <em>software engineering internship positions</em>. Passionate about problem-solving, building scalable solutions, and collaborating with talented teams. Let's connect and discuss potential roles for a meaningful career start.</p>
